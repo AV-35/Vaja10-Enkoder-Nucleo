@@ -59,9 +59,19 @@ static void MX_TIM2_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 uint32_t stevec = 0;
-void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim) {
-	stevec = __HAL_TIM_GET_COUNTER(htim);
+uint32_t obrati = 0;
+
+uint16_t kot = 0;
+
+void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim2) {
+	stevec = __HAL_TIM_GET_COUNTER(htim2);
+	kot = __HAL_TIM_GET_COUNTER(htim2);
+	if (kot == 360){
+		obrati ++;
+		kot = 0;
+	}
 }
+
 /* USER CODE END 0 */
 
 /**
