@@ -4,7 +4,9 @@
 S  pomočjo  programskega  okolja STM32CubeIDEin  HAL  knjižnicami  terSTMStudio (ali STM32CubeIDE  v Debug pogledu) sprogramirajte  mikroprocesor  tako,  da boste merili premike  in  hitrost vrtenja enkoderja.
 
 ## Postopek inicializacije periferije
-- **PA0** , **PA1**
+| Funkcija: | TIM2_CH1  | TIM2_CH2  |
+|-----------|-----------|-----------|
+| Pin:      | ***PA1*** | ***PA2*** |
 - Premakne se za **2** inkramenta.
 
 
