@@ -15,10 +15,12 @@ S  pomočjo  programskega  okolja STM32CubeIDEin  HAL  knjižnicami  terSTMStudi
 
 ## Vezje
 
+![PinOut](meida/5042B6A9-D121-4300-A9D6-6714AD095112.jpeg)
+
+
 ## Video
 
-https://user-images.githubusercontent.com/105905709/220278589-664bd1bd-57ab-4352-b5ff-a9f156df337b.mp4
-
+_**Work in progres**_
 
 
 ## Komentar
