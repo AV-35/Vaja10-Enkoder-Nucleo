@@ -15,8 +15,9 @@ S  pomočjo  programskega  okolja STM32CubeIDEin  HAL  knjižnicami  terSTMStudi
 
 ## Vezje
 
-![PinOut](meida/5042B6A9-D121-4300-A9D6-6714AD095112.jpeg)
 
+
+<img src="meida/5042B6A9-D121-4300-A9D6-6714AD095112.jpeg" alt="drawing" width="500" />
 
 ## Video
 
