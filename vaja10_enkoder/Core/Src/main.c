@@ -65,18 +65,16 @@ uint16_t kot = 0;
 
 void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim2) {
 	stevec = __HAL_TIM_GET_COUNTER(htim2);
-	kot = __HAL_TIM_GET_COUNTER(htim2);
-	if (kot == 360){
-		obrati ++;
-		kot = 0;
-	}
+	obrati = (stevec / 360);
+	kot = (stevec % 360);
+
 }
 
 /* USER CODE END 0 */
 
 /**
   * @brief  The application entry point.
-  * @retval int
+  * @retvl int
   */
 int main(void)
 {
