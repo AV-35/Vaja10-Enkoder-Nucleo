@@ -13,8 +13,11 @@ S  pomočjo  programskega  okolja STM32CubeIDEin  HAL  knjižnicami  terSTMStudi
 ## Pinout
 ![PinOut](meida/Posnetek%20zaslona_20230131_120619.png)
 
+## Vezje
+
 ## Video
 
+https://user-images.githubusercontent.com/105905709/220278589-664bd1bd-57ab-4352-b5ff-a9f156df337b.mp4
 
 
 
