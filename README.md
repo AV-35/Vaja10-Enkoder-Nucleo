@@ -21,8 +21,7 @@ S  pomočjo  programskega  okolja STM32CubeIDEin  HAL  knjižnicami  terSTMStudi
 
 ## Video
 
-_**Work in progres**_
-
+https://user-images.githubusercontent.com/105905709/220463886-5f53d35d-2fb2-40e2-a635-9a0713d53d8c.mp4
 
 ## Komentar
 
