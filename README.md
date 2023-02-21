@@ -13,6 +13,11 @@ S  pomočjo  programskega  okolja STM32CubeIDEin  HAL  knjižnicami  terSTMStudi
 ## Pinout
 ![PinOut](meida/Posnetek%20zaslona_20230131_120619.png)
 
+## Video
+
+
+
+
 ## Komentar
 
 V navodilih je napačno napisana koda, spodaj je popravljena.
