@@ -65,8 +65,8 @@ uint16_t kot = 0;
 
 void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim2) {
 	stevec = __HAL_TIM_GET_COUNTER(htim2);
-	obrati = (stevec / 360);
-	kot = (stevec % 360);
+	obrati = (stevec / 60);
+	kot = (stevec % 60)*6;
 
 }
 
